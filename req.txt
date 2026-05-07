@@ -1,0 +1,26 @@
+Domain 2: The Lifestyle & Adult Boutique
+This domain is designed for your restricted products, ensuring they are marketed to the appropriate audience without overlapping with your food brand.
+
+Division A: The Cannabis Cabinet
+Purpose: An e-commerce platform for cannabis-related products.
+
+Core Features:
+
+Product Catalog: Clear categories for different items.
+
+Shopping Cart: seamless "add to cart" functionality.
+
+Payment & Verification: Secure payment processing followed by a manual or automated order confirmation.
+
+Age Verification: A "Gatekeeper" splash page to ensure users are of legal age before entering the site.
+
+Division B: Adult Section (Lingerie & Toys)
+Purpose: An e-commerce space for adult sex toys and lingerie.
+
+Core Features:
+
+Discreet Catalog: High-quality imagery and descriptions for toys and apparel.
+
+Secure Checkout: Same robust cart and payment system as the cannabis division.
+
+Privacy Focus: Ensure the domain and payment descriptors are handled with the level of discretion typical for this industry.
