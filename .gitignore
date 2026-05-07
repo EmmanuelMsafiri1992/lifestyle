@@ -1,3 +1,11 @@
+# Next.js (root)
+.next/
+out/
+node_modules/
+.env.local
+.env*.local
+next.log
+
 # Laravel backend
 backend/.env
 backend/.env.backup
@@ -10,13 +18,10 @@ backend/storage/framework/views/
 backend/bootstrap/cache/
 backend/.phpunit.result.cache
 
-# Next.js frontend
-frontend/.env.local
-frontend/.env*.local
-frontend/node_modules/
+# Frontend subfolder (local dev only — Vercel uses root)
 frontend/.next/
-frontend/out/
-frontend/next.log
+frontend/node_modules/
+frontend/.env.local
 
 # OS / Editor
 .DS_Store
